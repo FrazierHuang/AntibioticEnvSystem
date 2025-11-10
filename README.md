@@ -28,7 +28,7 @@ It provides integrated data processing, risk assessment (RQ, PI, RRQ), and visua
 ---
 
 ## 📦 Installation
-1. Download the latest **DMG installer** from the [Releases](https://github.com/<YOUR_USERNAME>/AntibioticEnvSystem/releases) page.  
+1. Download the latest **DMG installer** from the [Releases](https://github.com/FrazierHuang/AntibioticEnvSystem/releases) page.  
 2. Open the DMG and drag the app into **Applications**.  
 3. Launch normally (right-click → Open if macOS warns).
 
