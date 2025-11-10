@@ -1,0 +1,3 @@
+([('main_gui',
+   '/Users/huanglingzhi/Downloads/AntibioticEnvSoftIP_v1.0/dist/main_gui',
+   'EXECUTABLE')],)
