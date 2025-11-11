@@ -44,7 +44,7 @@
 [![Download for Windows](https://img.shields.io/badge/⬇️%20Download-Windows%20Installer-blue?style=for-the-badge&logo=windows)](https://github.com/FrazierHuang/AntibioticEnvSystem/releases/download/v1.1-windows/AntibioticEnvSystem.exe)
 
 ### 🍎 **macOS (v1.0)**
-[![Download for macOS](https://img.shields.io/badge/⬇️%20Download-macOS%20Installer-silver?style=for-the-badge&logo=apple)](https://github.com/FrazierHuang/AntibioticEnvSystem/releases/download/v1.0-macos/AntibioticEnvSystem.dmg)
+[![Download for macOS](https://img.shields.io/badge/⬇️%20Download-macOS%20Installer-silver?style=for-the-badge&logo=apple)](https://github.com/FrazierHuang/AntibioticEnvSystem/releases/download/V1.0/AntibioticEnvSystem.dmg)
 
 </div>
 
