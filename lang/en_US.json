@@ -1,0 +1,24 @@
+{
+  "app_title": "AntibioticEnv System v1.1",
+  "btn_select": "Select Data File",
+  "btn_run": "Run Analysis",
+  "menu_lang": "Language",
+  "lang_cn": "中文",
+  "lang_en": "English",
+  "status_ready": "Ready",
+  "status_running": "Running…",
+  "status_done": "Done: results saved to outputs/",
+  "file_filter": "Data Files (*.csv *.xlsx)",
+  "msg_no_file": "Please select a data file first.",
+  "msg_done": "Analysis completed! Results saved to outputs/.",
+  "welcome_title": "AntibioticEnv System v1.1",
+  "welcome_subtitle": "A Bilingual Environmental Antibiotic Risk Assessment Platform",
+  "welcome_steps": [
+    "1) Select your dataset (CSV/XLSX).",
+    "2) Click “Run Analysis” to compute RQ / PI / RRQ.",
+    "3) Results are saved in the outputs/ folder (figures + Excel)."
+  ],
+  "welcome_data_req": "Required columns: Site_ID, Season, Antibiotic, Concentration_ngL, PNEC_ngL",
+  "welcome_author": "Author: Huang Lingzhi | Version 1.1 (2025)",
+  "welcome_btn": "Get Started"
+}

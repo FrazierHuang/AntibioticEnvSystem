@@ -1,0 +1,24 @@
+{
+  "app_title": "抗生素环境风险分析系统 v1.1",
+  "btn_select": "选择数据文件",
+  "btn_run": "开始分析",
+  "menu_lang": "语言 Language",
+  "lang_cn": "中文",
+  "lang_en": "English",
+  "status_ready": "就绪",
+  "status_running": "运行中…",
+  "status_done": "完成：结果已输出到 outputs/",
+  "file_filter": "数据文件 (*.csv *.xlsx)",
+  "msg_no_file": "请先选择数据文件。",
+  "msg_done": "分析完成！结果已保存到 outputs/ 目录。",
+  "welcome_title": "AntibioticEnv System v1.1",
+  "welcome_subtitle": "环境抗生素风险评估平台（中英文）",
+  "welcome_steps": [
+    "① 选择数据文件（CSV 或 Excel）",
+    "② 点击“开始分析”自动计算 RQ / PI / RRQ",
+    "③ 结果输出到 outputs/ 文件夹（图表 + Excel）"
+  ],
+  "welcome_data_req": "数据至少包含列：Site_ID, Season, Antibiotic, Concentration_ngL, PNEC_ngL",
+  "welcome_author": "作者：黄凌志 | 版本：1.1 (2025)",
+  "welcome_btn": "开始使用"
+}
