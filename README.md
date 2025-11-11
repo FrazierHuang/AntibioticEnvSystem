@@ -1,9 +1,3 @@
-非常好 ✅！下面是与你的 Release 页面风格一致的 专业版 README.md 封面模板，
-可以直接放在你的 GitHub 仓库首页（AntibioticEnvSystem/README.md）中。
-这个版本带有徽章、图标、分区、安装与使用说明，整体呈现科研软件项目的专业排版。
-
-⸻
-
 🚀 AntibioticEnv System
 
 
